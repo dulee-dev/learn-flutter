@@ -1,18 +1,18 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
-# my_first_flutter/.dart_tool/
-# my_first_flutter/.packages
-# my_first_flutter/build/
+# app/.dart_tool/
+# app/.packages
+# app/build/
 # If you're building an application, you may want to check-in your pubspec.lock
-# my_first_flutter/pubspec.lock
+# app/pubspec.lock
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
-# my_first_flutter/doc/api/
+# app/doc/api/
 
 # dotenv environment variables file
-# my_first_flutter/.env*
+# app/.env*
 
 # Avoid committing generated Javascript files:
 # *.dart.js
