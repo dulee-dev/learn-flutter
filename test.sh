@@ -1,0 +1,3 @@
+echo aaa \
+\
+&& echo "hi"
