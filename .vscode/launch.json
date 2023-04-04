@@ -8,7 +8,7 @@
       "flutterMode": "debug",
       // "flutterMode": "profile",
       // "flutterMode": "release",
-      "program": "my_first_flutter/lib/main.dart"
+      "program": "app/lib/main.dart"
     },
     {
       "name": "Android",
@@ -16,7 +16,7 @@
       "type": "dart",
       "deviceId": "emulator-5554",
       "flutterMode": "debug",
-      "program": "my_first_flutter/lib/main.dart"
+      "program": "app/lib/main.dart"
     },
     {
       "name": "Chrome",
@@ -24,7 +24,7 @@
       "type": "dart",
       "deviceId": "chrome",
       "flutterMode": "debug",
-      "program": "my_first_flutter/lib/main.dart"
+      "program": "app/lib/main.dart"
     },
     {
       "name": "iPhone",
@@ -32,7 +32,7 @@
       "type": "dart",
       "deviceId": "iphone",
       "flutterMode": "debug",
-      "program": "my_first_flutter/lib/main.dart"
+      "program": "app/lib/main.dart"
     }
   ],
   "compounds": [
