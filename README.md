@@ -54,3 +54,11 @@ argree license
 ### open ios simulator
 
 open -a Simulator
+
+! recommended
+
+### set launch.json for run multiple devices
+
+see .vscode/launch.json
+
+you can see list of device id by lauching with wrong device id
